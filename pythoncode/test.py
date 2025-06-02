@@ -2,7 +2,7 @@ print("Wassup Buddy this is out last version we all sure about that we are intri
 
 print (10 > 9)           
 print(10 == 9)     
-print 10 < 9)           
+print (10 < 9)           
 
 fruits = ["apple", "banana", "cherry"]
 for x in fruits
