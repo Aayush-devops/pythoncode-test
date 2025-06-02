@@ -1,1 +1,5 @@
-print Wassup Buddy this is out last version we all sure about that we are intrigated the jenkins!! v10")
+print("Wassup Buddy this is out last version we all sure about that we are intrigated the jenkins!! v10")
+
+print 10 > 9)
+print 10 == 9)
+print(10 < 9)
